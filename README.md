@@ -39,7 +39,7 @@ Este projeto automatiza o processo de login e edição de produtos (SKUs) em uma
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/vagnerdemelo/automatization.git
 cd seu-repositorio
 ```
 
